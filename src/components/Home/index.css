@@ -1,0 +1,35 @@
+.home-content-cont {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-head {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #3b82f6;
+  font-weight: bold;
+}
+.main-para {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+}
+.register-btn {
+  background-color: #3b82f6;
+  width: 130px;
+  height: 32px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.home-img {
+  width: 60%;
+  margin-top: 50px;
+}
